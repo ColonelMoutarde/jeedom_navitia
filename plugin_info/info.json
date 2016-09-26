@@ -1,0 +1,8 @@
+{
+	"id" : "navitiaio",
+	"name" : "Navitia.io",
+	"licence" : "AGPL",
+	"author" : "Kevin",
+	"require" : "2.3",
+	"category" : "travel"
+}

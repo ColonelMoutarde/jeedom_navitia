@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>navitiaio</id>
+    <name>Navitia.io</name>
+    <licence>AGPL</licence>
+    <author>Kevin</author>
+    <require>2.3</require>
+    <category>travel</category>
+</info>
+
